@@ -1,0 +1,2 @@
+Requerimientos:
+Se requiere una pantalla de 1920 x 1080
